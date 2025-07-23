@@ -9,7 +9,7 @@
 
 In this lab, you will write JavaScript to get images of dogs and a list of dog
 breeds from API's and render them to the DOM. You will also add some click
-behavior to the list elements and implement a filter.
+behaviour to the list elements and implement a filter.
 
 Note that this lab **does not contain tests**. You will be working from the
 requirements described below and verifying that your code is working correctly
